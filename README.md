@@ -24,7 +24,7 @@ A blackjack game built in Python. Featuring almost the same functionalities of a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GonzaloJCC/blackjack.git
    ```
 
 2. Navigate to the project folder:
